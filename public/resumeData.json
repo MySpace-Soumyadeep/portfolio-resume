@@ -1,18 +1,17 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Soumyadeep Nayak",
+    "occupation": "Senior Software Engineer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Soumyadeep! A modern Web technology enthusiast with proven experience in developing web applications. Expanding my skills towards building full fledged applications with both front-end and back-end technologies.",
+    "email": "soumyadeepnayak97@gmail.com",
+    "phone": "+91 7596973036",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Nagawara",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560045"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
@@ -29,7 +28,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/soumyadeep-nayak-1b34351b0",
         "className": "fa fa-linkedin"
       },
       {
@@ -48,18 +47,18 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Techno India - Salt Lake",
+        "degree": "Bachelor's Degree, Electronics & Communication Engineering",
+        "graduated": "May 2019",
+        "description": "Graduated with DGPA of 8.25"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Tata Consultancy Services",
+        "title": "System Engineer",
+        "years": "July 2019 - Apr 2022",
+        "description": "Started up as a fresher in this tech giant service provider company. Eager to grab any oppurtunities that was thrown into me, which in turn allowed me to explore the world of enterprise application development."
       }
     ],
     "skills": [
@@ -68,8 +67,8 @@
         "level": "100%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "Java",
+        "level": "75%"
       },
       {
         "name": "Git",
